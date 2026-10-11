@@ -1,2 +1,4 @@
-# AngularApp
-Agular application - revised practise
+# Angular
+
+Agular application - revised practice
+
